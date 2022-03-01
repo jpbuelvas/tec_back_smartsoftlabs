@@ -1,5 +1,6 @@
 # Readme
 Bases de dato: Mysql
+
 Lenguaje: TypeScript
 ## Instalar modulos necesarios
 - Para ejecutar el back primero lanzamos desde XAMP nuestra instancia de Mysql en Localhost port 3306
